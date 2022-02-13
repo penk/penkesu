@@ -2,15 +2,17 @@
 
 ![](gallery/penkesu.computer-heroshot.jpg)
 
-Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Raspberry Pi Zero 2 W, a 7.9 inch display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard.
+Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard. 
 
 ## The Design 
 
-The case of Penkesu Computer is designed around the display and keyboard to achieve a (relatively) slim physical dimensions (`22.5 x 9.5 x 5` cm, or `8.8 x 3.7 x 1.9` inches).
+The case of Penkesu Computer is designed around the display and keyboard to achieve a (relatively) compact physical dimensions.
 
 ![](gallery/penkesu.computer-design-1.png)
 
-Ribbon cable for HDMI and Gameboy Advance SP replacement hinges are used to keep the hinge design compact. Electronics are kept to be minimal (3 internal components) and most of the parts are either 3D printable or off-the-shelf. 
+Gameboy Advance SP hinges and Ribbon cable for HDMI are used to keep the hinge thin, yet holds the weight of the display so it won't tip over. 
+
+Electronics are kept to be minimal (3 internal components) and most of the parts are either 3D printable or off-the-shelf product. 
 
 | ![](gallery/penkesu.computer-1.jpg) | ![](gallery/penkesu.computer-2.jpg) | 
 |-----------------------------|-----------------------------|
@@ -48,7 +50,7 @@ Links are **not** affiliate links, and only provided as references.
 
 ## The Assembly 
 
-1. Glue two hinges to the chassis (my 3D printer is not accurate enough to print a fully functional hinge lock, so I simply glued them with 5 minute epoxy) 
+1. Glue two hinges to the chassis (my 3D printer is not accurate enough to print a functional hinge lock, so I simply glued them with 5 minute epoxy) 
 
   ![](gallery/penkesu.computer-assembly-hinge.jpg)
 
