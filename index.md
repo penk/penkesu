@@ -1,6 +1,6 @@
 # Penkesu Computer - A Homebrew Retro-style Laptop
 
-![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-heroshot.jpg)
+![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-heroshot.jpg)
 
 Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Raspberry Pi Zero 2 W, a 7.9 inch display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard.
 
@@ -8,14 +8,14 @@ Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Rasp
 
 The case of Penkesu Computer is designed around the display and keyboard to achieve a (relatively) slim physical dimensions (`22.5 x 9.5 x 5` cm, or `8.8 x 3.7 x 1.9` inches).
 
-![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-design-1.png)
+![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-design-1.png)
 
 Ribbon cable for HDMI and Gameboy Advance SP replacement hinges are used to keep the hinge design compact. Electronics are kept to be minimal (3 internal components) and most of the parts are either 3D printable or off-the-shelf. 
 
-| ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-1.jpg) | ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-2.jpg) | 
+| ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-1.jpg) | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-2.jpg) | 
 |-----------------------------|-----------------------------|
-| ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-5.jpg) | ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-4.jpg) | 
-| ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-3.jpg) | ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-6.jpg) | 
+| ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-5.jpg) | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-4.jpg) | 
+| ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-3.jpg) | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-6.jpg) | 
 
 ## Open Source Hardware 
 
@@ -25,7 +25,7 @@ Since there's no immediate plan on selling kits or making Penkesu Computer mass 
 
 ## Bill of Materials 
 
-![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-parts.png)
+![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-parts.png)
 
 - Display 
     - WaveShare [7.9inch Capacitive Touch Screen](https://www.waveshare.com/7.9inch-HDMI-LCD.htm)
@@ -50,13 +50,13 @@ Links are **not** affiliate links, and only provided as references.
 
 1. Glue two hinges to the chassis (my 3D printer is not accurate enough to print a fully functional hinge lock, so I simply glued them with 5 minute epoxy) 
 
-  ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-assembly-hinge.jpg)
+  ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-assembly-hinge.jpg)
 
 2. Add heat-set threaded inserts (M2x6) to the 4 corners of screen bezel, and 2 to the hinge cover
 
 3. Wrap the ribbon cable twice and pull it out through the hinge cover
 
-  ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-assembly-cable.jpg)
+  ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-assembly-cable.jpg)
 
 4. Wiring: 
 
@@ -69,7 +69,7 @@ Links are **not** affiliate links, and only provided as references.
     | PowerBoost `5V OUT` | display and Pi Zero's `VCC` | 
     | PowerBoost `GND` | display and Pi Zero's `GND` |
 
-    ![](https://github.com/penk/penkesu/blob/master/gallery/penkesu.computer-assembly-wiring.jpg) 
+    ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-assembly-wiring.jpg) 
 
 5. Connect keyboard's micro USB and display's mini HDMI port to Pi Zero 2 W; inset micro SD card into Pi Zero 2 W 
 6. Fasten all components with M2x6 screws 
