@@ -2,7 +2,7 @@
 
 ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-heroshot.jpg)
 
-Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Raspberry Pi Zero 2 W, a 7.9 inch display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard.
+Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard.
 
 ## The Design 
 
