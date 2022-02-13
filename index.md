@@ -32,7 +32,7 @@ Since there's no immediate plan on selling kits or making Penkesu Computer mass 
     - Adafruit DIY HDMI Cable Parts - [Right Angle adapter](https://www.adafruit.com/product/3550), [Mini HDMI adapter](https://www.adafruit.com/product/3552), and [20cm Ribbon Cable](https://www.adafruit.com/product/3561)
 - Case 
     - Gameboy Advance SP [Replacement Hinges](https://amazon.com/dp/B00YCEOXIK)
-    - 3D printed parts ([STL files](stl) and [STEP file](step)) 
+    - 3D printed parts ([STL files](https://github.com/penk/penkesu/tree/master/stl) and [STEP file](https://github.com/penk/penkesu/tree/master/step)) 
 - Electronics 
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
     - 3.7V 506090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=506090+battery)
@@ -42,7 +42,7 @@ Since there's no immediate plan on selling kits or making Penkesu Computer mass 
     - MBK Choc Low-Profile Keycaps x 48
     - 1N4148 Diode x 48 
     - Arduino Pro Macro x 1
-    - PCB x 1 ([gerber file](https://github.com/larrbo/odd-rocket/blob/master/koda/koda_no%20silk.zip) and [QMK firmware](firmware))
+    - PCB x 1 ([gerber file](https://github.com/larrbo/odd-rocket/blob/master/koda/koda_no%20silk.zip) and [QMK firmware](https://github.com/penk/penkesu/tree/master/firmware))
 
 Links are **not** affiliate links, and only provided as references. 
 
