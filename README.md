@@ -21,7 +21,7 @@ Electronics are kept to be minimal (3 internal components) and most of the parts
 
 ## Open Source Hardware 
 
-After [CutiePi tablet](https://cutiepi.io) has successfully funded and started shipping, I feel the need to work on a new project, something I don't need to worry too much about commercial viability, and to remind myself why I started tinkering. A "rebound" project, so to speak. 
+After the [CutiePi tablet](https://cutiepi.io) has successfully funded and started shipping, I feel the need to work on a new project, something I don't need to worry too much about commercial viability, and to remind myself why I started tinkering. A "rebound" project, so to speak. 
 
 Since there's no immediate plan on selling kits or making Penkesu Computer mass producible, I'd like to publish all the designs and plans so there's enough information for anyone interested in making one. 
 
@@ -80,4 +80,4 @@ Links are **not** affiliate links, and only provided as references.
 
 Copyright (c) 2022 Penk Chen. All rights reserved.
 
-All files are licensed under MIT license, see the LICENSE for more information.
+All files are licensed under MIT license, see the [LICENSE](LICENSE) for more information.
