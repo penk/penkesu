@@ -19,6 +19,8 @@ Electronics are kept to be minimal (3 internal components) and most of the parts
 | ![](gallery/penkesu.computer-5.jpg) | ![](gallery/penkesu.computer-4.jpg) | 
 | ![](gallery/penkesu.computer-3.jpg) | ![](gallery/penkesu.computer-6.jpg) | 
 
+See also: the keyboard [sound test video](https://twitter.com/penk/status/1492715339997925376).
+
 ## Open Source Hardware 
 
 Ever since the [CutiePi tablet](https://cutiepi.io) has been successfully funded and started shipping, I feel the need to work on a new project, something I don't need to worry too much about commercial viability, and to remind myself why I started tinkering. A "rebound" project, so to speak. 
