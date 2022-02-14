@@ -18,6 +18,8 @@ Electronics are kept to be minimal (3 internal components) and most of the parts
 | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-5.jpg) | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-4.jpg) | 
 | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-3.jpg) | ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-6.jpg) | 
 
+See also: the keyboard [sound test video](https://twitter.com/penk/status/1492715339997925376).
+
 ## Open Source Hardware 
 
 Ever since the [CutiePi tablet](https://cutiepi.io) has been successfully funded and started shipping, I feel the need to work on a new project, something I don't need to worry too much about commercial viability, and to remind myself why I started tinkering. A "rebound" project, so to speak. 
@@ -36,7 +38,7 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
     - 3D printed parts ([STL files](https://github.com/penk/penkesu/tree/master/stl) and [STEP file](https://github.com/penk/penkesu/tree/master/step)) 
 - Electronics 
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-    - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=506090+battery)
+    - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=606090+battery)
     - Adafruit [PowerBoost 1000C](https://www.adafruit.com/product/2465)
 - Keyboard 
     - Kailh Low Profile [Choc V1](http://www.kailh.com/en/Products/Ks/CS/319.html) Switches x 48
