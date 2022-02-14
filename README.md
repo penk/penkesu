@@ -43,7 +43,7 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
     - Kailh Low Profile [Choc V1](http://www.kailh.com/en/Products/Ks/CS/319.html) Switches x 48
     - MBK Choc Low-Profile Keycaps x 48
     - 1N4148 Diode x 48 
-    - Arduino Pro Macro x 1
+    - Arduino Pro Micro x 1
     - PCB x 1 ([gerber file](https://github.com/larrbo/odd-rocket/blob/master/koda/koda_no%20silk.zip) and [QMK firmware](firmware))
 
 Links are **not** affiliate links, and only provided as references. 
