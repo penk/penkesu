@@ -1,4 +1,4 @@
-# Penkesu Computer - A Homebrew Retro-style Laptop
+# Penkesu Computer - A Homebrew Retro-style Handheld
 
 ![](gallery/penkesu.computer-heroshot.jpg)
 
@@ -37,7 +37,7 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
     - 3D printed parts ([STL files](stl) and [STEP file](step)) 
 - Electronics 
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-    - 3.7V 506090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=506090+battery)
+    - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=606090+battery)
     - Adafruit [PowerBoost 1000C](https://www.adafruit.com/product/2465)
 - Keyboard 
     - Kailh Low Profile [Choc V1](http://www.kailh.com/en/Products/Ks/CS/319.html) Switches x 48
