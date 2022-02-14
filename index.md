@@ -1,8 +1,8 @@
-# Penkesu Computer - A Homebrew Retro-style Laptop
+# Penkesu Computer - A Homebrew Retro-style Handheld
 
 ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-heroshot.jpg)
 
-Penkēsu (Japanese: `ペンケース`) is a retro-style laptop powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard.
+Penkēsu (Japanese: `ペンケース`) is a retro-style handheld device powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard.
 
 ## The Design 
 
@@ -36,7 +36,7 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
     - 3D printed parts ([STL files](https://github.com/penk/penkesu/tree/master/stl) and [STEP file](https://github.com/penk/penkesu/tree/master/step)) 
 - Electronics 
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-    - 3.7V 506090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=506090+battery)
+    - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=506090+battery)
     - Adafruit [PowerBoost 1000C](https://www.adafruit.com/product/2465)
 - Keyboard 
     - Kailh Low Profile [Choc V1](http://www.kailh.com/en/Products/Ks/CS/319.html) Switches x 48
