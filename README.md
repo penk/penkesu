@@ -1,4 +1,4 @@
-# Penkesu Computer - A Homebrew Retro-style Handheld
+# Penkesu Computer - A Homebrew Retro-style Handheld PC
 
 ![](gallery/penkesu.computer-heroshot.jpg)
 
@@ -10,7 +10,7 @@ The case of Penkesu Computer is designed around the display and keyboard to achi
 
 ![](gallery/penkesu.computer-design-1.png)
 
-Gameboy Advance SP hinges and Ribbon cable for HDMI are used to keep the hinge thin, yet holds the weight of the display so it won't tip over. 
+Repurposed Gameboy Advance SP hinges and ribbon cable for HDMI are used to keep the hinge thin, yet holds the weight of the display so it won't tip over.
 
 Electronics are kept to be minimal (3 internal components) and most of the parts are either 3D printable or off-the-shelf product. 
 
@@ -32,7 +32,7 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
 ![](gallery/penkesu.computer-parts.png)
 
 - Display 
-    - WaveShare [7.9inch Capacitive Touch Screen](https://www.waveshare.com/7.9inch-HDMI-LCD.htm)
+    - Waveshare [7.9inch Capacitive Touch Screen](https://www.waveshare.com/7.9inch-HDMI-LCD.htm)
     - Adafruit DIY HDMI Cable Parts - [Right Angle adapter](https://www.adafruit.com/product/3550), [Mini HDMI adapter](https://www.adafruit.com/product/3552), and [20cm Ribbon Cable](https://www.adafruit.com/product/3561)
 - Case 
     - Gameboy Advance SP [Replacement Hinges](https://amazon.com/dp/B00YCEOXIK)
@@ -42,8 +42,8 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
     - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=606090+battery)
     - Adafruit [PowerBoost 1000C](https://www.adafruit.com/product/2465)
 - Keyboard 
-    - Kailh Low Profile [Choc V1](http://www.kailh.com/en/Products/Ks/CS/319.html) Switches x 48
-    - MBK Choc Low-Profile Keycaps x 48
+    - Kailh Low Profile [Choc v1](http://www.kailh.com/en/Products/Ks/CS/319.html) Switches x 48
+    - MBK Choc Low Profile Keycaps x 48
     - 1N4148 Diode x 48 
     - Arduino Pro Micro x 1
     - PCB x 1 ([gerber file](https://github.com/larrbo/odd-rocket/blob/master/koda/koda_no%20silk.zip) and [QMK firmware](firmware))
