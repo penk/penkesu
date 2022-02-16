@@ -54,15 +54,15 @@ Links are **not** affiliate links, and only provided as references.
 
 About the keyboard: 
 
-- The keyboard is called `Koda`, which is originally designed by [larrbo](https://github.com/larrbo/odd-rocket/) and released under Creative Commons BY-NC-SA 4.0 License. I tweaked the layouts so it fits my need and looks closer to the `Planck`
-- If one wishes to use other 40% keyboard for the build, it can be done by editing the CAD file and adjusting the compartment size in the chassis
+- The keyboard is called `Koda`, which is originally designed by [larrbo](https://github.com/larrbo/odd-rocket/) and released under Creative Commons BY-NC-SA 4.0 License. I've tweaked the layouts so it fits my need and looks closer to the `Planck`
+- If one wishes to use other 40% keyboard for the build, it can be done by editing the STEP file and adjusting the compartment size in the chassis
 - A thin metal sheet was [glued to the base](https://twitter.com/penk/status/1489810591628034048) as the counterweight, your mileage may vary depending on how you like the weight distribution
 
 For the keycaps: 
 
-- The legends on keycaps were [printed with a laser engraver](https://twitter.com/penk/status/1477140916565843968), and I used a [black dip powder for nails](https://twitter.com/penk/status/1475763655212138499) as pigment 
-- This method is called [laser dye-sub keycaps](https://www.youtube.com/watch?v=qqAspFVRZNk) 
-- There are custom printing services for keycaps e.g. [yushakobo.jp](https://shop.yushakobo.jp/collections/services/products/keycap-laser-marking) 
+- The legends on keycaps were [printed with a laser engraver](https://twitter.com/penk/status/1477140916565843968), which I used [black dip powder for nails](https://twitter.com/penk/status/1475763655212138499) as pigment 
+- More information about this method can be found with keywords [laser dye-sub keycaps](https://www.youtube.com/watch?v=qqAspFVRZNk) 
+- There are custom printing services for keycaps e.g. [yushakobo.jp](https://shop.yushakobo.jp/collections/services/products/keycap-laser-marking) if one does not have access to a laser engraver
 
 ## The Assembly 
 
