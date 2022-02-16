@@ -61,7 +61,7 @@ About the keyboard:
 For the keycaps: 
 
 - The keycaps are [printed with a laser engraver](https://twitter.com/penk/status/1477140916565843968), more information about this can be found with keywords [laser dye-sub keycaps](https://www.youtube.com/watch?v=qqAspFVRZNk)
-- I'm using a [black dip powder for nail](https://twitter.com/penk/status/1475763655212138499) as pigment and a fant called `Trade Gothic Bold Condensed No. 20`
+- I'm using a [black dip powder for nail](https://twitter.com/penk/status/1475763655212138499) as pigment and the typeface is `Trade Gothic Bold Condensed No. 20`
 - There are custom printing services for keycaps e.g. [yushakobo.jp](https://shop.yushakobo.jp/collections/services/products/keycap-laser-marking)
 
 ## The Assembly 
