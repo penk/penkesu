@@ -56,6 +56,7 @@ About the keyboard:
 
 - The keyboard is called `Koda`, which was originally designed by [larrbo](https://github.com/larrbo/odd-rocket/) and released under Creative Commons BY-NC-SA 4.0 License. I tweaked the layouts so it fits my need and looks closer to the `Planck`
 - If one wishes to use other 40% keyboard for the build, it can be done by editing the CAD file and adjusting the compartment size in the chassis
+- A thin metal sheet was [gluded to the base](https://twitter.com/penk/status/1489810591628034048) as the counterweight, your mileage may vary depending on how you like the weight distribution
 
 For the keycaps: 
 
