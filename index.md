@@ -50,6 +50,19 @@ And since there are no immediate plans on selling kits or making Penkesu Compute
 
 Links are **not** affiliate links, and only provided as references. 
 
+## Notes on the Keyboard
+
+About the keyboard: 
+
+- The keyboard is called `Koda`, which was originally designed by [larrbo](https://github.com/larrbo/odd-rocket/) and released under Creative Commons BY-NC-SA 4.0 License. I tweaked the layouts so it fits my need and looks closer to the `Planck`
+- If one wishes to use other 40% keyboard for the build, it can be done by editing the CAD file and adjusting the compartment size in the chassis
+
+For the keycaps: 
+
+- The keycaps are [printed with a laser engraver](https://twitter.com/penk/status/1477140916565843968), more information about this can be found with keywords [laser dye-sub keycaps](https://www.youtube.com/watch?v=qqAspFVRZNk)
+- I'm using a [black dip powder for nail](https://twitter.com/penk/status/1475763655212138499) as pigment and a fant called `Trade Gothic Bold Condensed No. 20`
+- There are custom printing services for keycaps e.g. [yushakobo.jp](https://shop.yushakobo.jp/collections/services/products/keycap-laser-marking)
+
 ## The Assembly 
 
 1. Glue two hinges to the chassis (my 3D printer is not accurate enough to print a fully functional hinge lock, so I simply glued them with 5 minute epoxy) 
@@ -77,6 +90,8 @@ Links are **not** affiliate links, and only provided as references.
 
 5. Connect keyboard's micro USB and display's mini HDMI port to Pi Zero 2 W; inset micro SD card into Pi Zero 2 W 
 6. Fasten all components with M2x6 screws 
+
+If you made it this far, welcome to check out my other project, [the CutiePi tablet](http://cutiepi.io), which is also a 100% open source hardware! :-)
 
 ## Copyright and License
 
