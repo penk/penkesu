@@ -10,7 +10,7 @@ The case of Penkesu Computer is designed around the display and keyboard to achi
 
 ![](https://github.com/penk/penkesu/raw/master/gallery/penkesu.computer-design-1.png)
 
-Repurposed Gameboy Advance SP hinges and ribbon cable for HDMI are used to keep the hinge thin, yet holds the weight of the display so it won't tip over.
+Repurposed Gameboy Advance SP hinges and ribbon cable for HDMI are used to keep the hinge design thin, yet they hold the weight of the display so it won't tip over.
 
 Electronics are kept to be minimal (3 internal components) and most of the parts are either 3D printable or off-the-shelf product.
 
