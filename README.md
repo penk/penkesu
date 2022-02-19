@@ -2,11 +2,11 @@
 
 ![](gallery/penkesu.computer-heroshot.jpg)
 
-Penkēsu (Japanese: `ペンケース`) is a retro-style handheld device powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (400 x 1280 resolution), and a 48-keys ortholinear mechanical keyboard. 
+Penkēsu (Japanese: `ペンケース`) is a retro-style handheld device powered by a Raspberry Pi Zero 2 W, a 7.9 inch widescreen display (1280 x 400 resolution), and a 48-key ortholinear mechanical keyboard. 
 
-## The Design 
+## The Design
 
-The case of Penkesu Computer is designed around the display and keyboard to achieve a (relatively) compact physical dimensions.
+The enclosure of Penkesu Computer is designed around the display and keyboard to achieve a (relatively) compact physical dimensions.
 
 ![](gallery/penkesu.computer-design-1.png)
 
