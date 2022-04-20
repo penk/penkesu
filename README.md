@@ -65,7 +65,9 @@ For the keycaps:
 - There are custom printing services for keycaps e.g. [yushakobo.jp](https://shop.yushakobo.jp/collections/services/products/keycap-laser-marking) if one does not have access to a laser engraver
 
 Keyboard Layout: 
+
 ![image](https://user-images.githubusercontent.com/7128666/164281995-82e681d6-b87d-482a-a093-9e1c4c32f1e5.png)
+
 The lower key activates a layer that primarily has number keys from ` to 1 - 0 across the top row. 
 The raise key activates a layer that has the shifted version of all of the lower keys. As well function keys using the a,s,d,f,g,h and z,x,c,v,b,n keys. F1-F6 and F7-F12. 
 The func key activates a mouse layer. The mouse layer uses a constant speed to provide a linear feel when moving the cursor. Your w,a,s,d keys are you cursor movement keys. Your left, right, and middle mouse buttons are j,k, and l respectively. Your scroll wheel uses the t,f,g,h keys. Finally mouse cursor speed can be toggled between 0, 1, and 2, with 0 being the slowest and most precise, and 2 being the fasted and most inaccurate. You access speed 0 using the v key. Speed 1 using the b key. And the fastest speed (2) using the n key. 
