@@ -97,7 +97,7 @@ Pushing func key down and holding it activates a mouse layer. The mouse layer us
 
     ![](gallery/penkesu.computer-assembly-wiring.jpg) 
 
-5. Connect keyboard's micro USB and display's mini HDMI port to Pi Zero 2 W; inset micro SD card into Pi Zero 2 W. 
+5. Connect the keyboard's micro USB and the display's mini HDMI port to Pi Zero 2 W; inset the micro SD card into the Pi Zero 2 W. 
 6. Fasten all components with M2x6 screws. 
 
 If you made it this far, you are welcome to check out my other project, [the CutiePi tablet](http://cutiepi.io), which is also 100% open source hardware! :-)
