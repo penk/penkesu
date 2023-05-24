@@ -36,7 +36,9 @@ And since there are no immediate plans on selling kits or making the Penkesu Com
     - Adafruit DIY HDMI Cable Parts - [Right Angle adapter](https://www.adafruit.com/product/3550), [Mini HDMI adapter](https://www.adafruit.com/product/3552), and [20cm Ribbon Cable](https://www.adafruit.com/product/3561)
 - Case 
     - Gameboy Advance SP [Replacement Hinges](https://amazon.com/dp/B00YCEOXIK)
-    - 3D printed parts ([STL files](stl) and [STEP file](step)) 
+    - 3D printed parts ([STL files](stl) and [STEP file](step))
+    - M2x6mm screws x 6
+    - M2x6mm heat-set inserts x 6
 - Electronics 
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
     - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=606090+battery)
@@ -78,7 +80,7 @@ Pushing func key down and holding it activates a mouse layer. The mouse layer us
 
   ![](gallery/penkesu.computer-assembly-hinge.jpg)
 
-2. Add heat-set threaded inserts (M2x6) to the 4 corners of screen bezel, and 2 to the hinge cover. You may also use heat insert at the front corners of the keyboard tray. Just note that placing these inserts are very difficult, and not entirely necessary. For ease of access you may wish to not use them at all. 
+2. Add heat-set threaded inserts (M2x6mm) to the 4 corners of screen bezel, and 2 to the hinge cover. You may also use heat insert at the front corners of the keyboard tray. Just note that placing these inserts are very difficult, and not entirely necessary. For ease of access you may wish to not use them at all. 
 
 3. Wrap the ribbon cable twice and pull it out through the hinge cover. If you use a toothpick, it might make it easier to ensure you do this cleanly through the display cover. 
 
@@ -98,7 +100,7 @@ Pushing func key down and holding it activates a mouse layer. The mouse layer us
     ![](gallery/penkesu.computer-assembly-wiring.jpg) 
 
 5. Connect the keyboard's micro USB and the display cable into the mini HDMI port of the Pi Zero 2 W; inset the micro SD card into the Pi Zero 2 W. 
-6. Fasten all components with M2x6 screws. 
+6. Fasten all components with M2 screws. 
 
 If you made it this far, you are welcome to check out my other project, [the CutiePi tablet](http://cutiepi.io), which is also 100% open source hardware! :-)
 
