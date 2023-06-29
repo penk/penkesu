@@ -37,8 +37,8 @@ And since there are no immediate plans on selling kits or making the Penkesu Com
 - Case 
     - Gameboy Advance SP [Replacement Hinges](https://amazon.com/dp/B00YCEOXIK)
     - 3D printed parts ([STL files](stl) and [STEP file](step)) 
-    - M2x6mm screws x 6
-    - M2x6mm threaded heat-set inserts x 6
+    - M2x6mm screws x 6 (8 if intending to secure the keyboard to the bottom tray. See part 2 below for more info.)
+    - M2x6mm threaded heat-set inserts x 6 (8 if intending to secure the keyboard to the bottom tray. See part 2 below for more info.)
 - Electronics 
     - Raspberry Pi [Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
     - 3.7V 606090 (or similar size) [Li-Po battery](https://www.aliexpress.com/wholesale?SearchText=606090+battery)
